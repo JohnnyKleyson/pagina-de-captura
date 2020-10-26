@@ -6,7 +6,7 @@ Uma pagina de captura para divulgar um workshop integrado form com mailchimp uti
 Com recebimento de Email pelo "Mailchimp" que cria um lista de emails para o palestrante entrar em contato com seus clientes.
 
 ### **RESULTADO**
-Clique na foto para acessar o site.
+![screenshot](https://user-images.githubusercontent.com/72710750/97117292-6ef5fe80-16e1-11eb-8f22-092d21c0b4eb.png)
  https://johnnykleyson.github.io/pagina-de-captura/.
 
 ### **FERRAMENTAS**
