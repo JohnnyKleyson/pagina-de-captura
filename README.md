@@ -1,4 +1,4 @@
-# pagina-de-captura
+<h1 align="center"> WORKSHOP RISE UP! </h1>
 
 ### **OBJETIVO**
 Uma pagina de captura para divulgar um workshop integrado form com mailchimp utiliando um design clean e responsivo.
@@ -12,10 +12,10 @@ Com recebimento de Email pelo "Mailchimp" que cria um lista de emails para o pal
  https://johnnykleyson.github.io/pagina-de-captura/.
 
 ### **FERRAMENTAS**
--HTML
+- HTML
 
--CSS
+- CSS
 
--**Serviço:** Mailchimp
+- Mailchimp
 
 www.linkedin.com/in/johnnykleyson
